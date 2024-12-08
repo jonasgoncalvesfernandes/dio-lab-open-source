@@ -48,7 +48,7 @@ Para isso, você pode se inspirar nos exemplos no diretório [`community`](https
 ### 5) Adicione suas alterações à "staging area" 
 Utilize o comando `git add community/SEU_USERNAME.md` para adicionar sua alteração (nesse caso o arquivo markdown criado)  à "staging area" no Git.
 
-### 6) Crie um Commit
+### 6) Crie um CommitN
 Crie um commit e adicione a mensagem indicando a adição do seu perfil:
 ```bash
 git commit -m"feat: add SEU_USERNAME profile"
@@ -93,3 +93,8 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
 - [CONVENTIONAL COMMITS. Summary](https://www.conventionalcommits.org/en/v1.0.0/)
 - [GITHUB. Configurar diretrizes para os contribuidores do repositório](https://docs.github.com/pt/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
+
+- feat: add perfil README de SEU_USERNAME ao diretório "community" no desafio DIO
+
+Adiciona um novo arquivo README com informações sobre o usuário SEU_USERNAME, como parte da contribuição para o desafio "Contribuindo em um Projeto Open Source no GitHub" da Digital Innovation One. O arquivo foi inserido no diretório "community".
+
